@@ -1,2 +1,0 @@
-Title: Git for EvertOne
-Subtitle: Hello how are you
